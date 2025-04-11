@@ -25,6 +25,5 @@ pip
 fzf
 nfs-common
 xclip
-obsidian
 screen
 openssh-server
