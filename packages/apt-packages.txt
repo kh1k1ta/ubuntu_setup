@@ -26,4 +26,6 @@ fzf
 nfs-common
 xclip
 screen
+gh
+vim
 openssh-server
