@@ -29,3 +29,4 @@ screen
 gh
 vim
 openssh-server
+neofetch
