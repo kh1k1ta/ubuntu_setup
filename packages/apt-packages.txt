@@ -18,7 +18,6 @@ filezilla
 gimp
 vlc
 audacity
-virtualbox
 libfuse2
 python3-venv
 pip
