@@ -29,3 +29,4 @@ gh
 vim
 openssh-server
 neofetch
+i3

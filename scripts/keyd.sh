@@ -9,3 +9,4 @@ sudo keyd reload
 
 cd ..
 sudo rm -rf keyd
+sudo rm -rf /etc/keyd
